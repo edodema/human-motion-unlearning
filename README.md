@@ -1,9 +1,10 @@
 # Human Motion Unlearning
 
-[![website](https://img.shields.io/badge/-Website-orange?style=flat&labelColor=grey&logo=firefox%20browser&logoColor=white)](https://arxiv.org/abs/id)
-[![arXiv](https://img.shields.io/badge/-Paper-red?style=flat&labelColor=grey&logo=arxiv&logoColor=white)](https://arxiv.org/abs/id)
+[![website](https://img.shields.io/badge/-Website-orange?style=flat&labelColor=grey&logo=firefox%20browser&logoColor=white)](https://pinlab.org/hmu)
+[![arXiv](https://img.shields.io/badge/-Paper-red?style=flat&labelColor=grey&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2503.18674)
 
 > ## 🚧 Work in progress!
+>
 > This repository is public, but the code will be released soon.
 > Feel free to **star** ⭐️  and **watch** 👁️ the repo to stay updated!
 
