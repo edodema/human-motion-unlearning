@@ -8,7 +8,7 @@
 > This repository is public, but the code will be released soon.
 > Feel free to **star** ⭐️  and **watch** 👁️ the repo to stay updated!
 
-This repository will host the official implementation of the paper [*Human Motion Unlearning*](https://arxiv.org/abs/id).
+This repository will host the official implementation of the paper [*Human Motion Unlearning*](https://arxiv.org/pdf/2503.18674).
 
 We introduce human motion unlearning to prevent toxic animation synthesis while preserving text-to-motion quality. We provide the first benchmark by filtering toxic samples from HumanML3D and Motion-X, and adapt image unlearning methods as baselines. We also propose *Latent Code Replacement (LCR)*, a simple, training-free method that outperforms all baselines.
 
