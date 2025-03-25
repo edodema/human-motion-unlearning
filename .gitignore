@@ -1,0 +1,10 @@
+.DS_Store
+*.tar.gz
+__pycache__
+
+dataset/
+checkpoints/ 
+deps/
+glove/
+wandb/
+log/
